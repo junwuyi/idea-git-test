@@ -15,5 +15,7 @@ public class FirstDemo {
         System.out.println("hello world");
 
         //你好世界
+        //不好
     }
+
 }
